@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="255px" height="124px" viewBox="0 0 255 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="-582" y="-315" width="1440" height="521"></rect>
+        <g id="Group" transform="translate(39.000000, 17.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M176,0 L176,107 L123,107 L123,92.8667069 C144.521212,92.8667069 161.930909,75.3775633 161.930909,53.7581423 C161.930909,32.2032569 144.521212,14.6495778 123,14.6495778 L123,0 L176,0 Z" id="Path"></path>
+            <path d="M123,93 C101.50495,93 84,75.4950495 84,54 C84,32.5049505 101.50495,15 123,15 L123,32.3762376 C111.094059,32.3762376 101.376238,42.0940594 101.376238,54 C101.376238,65.9059406 111.094059,75.6237624 123,75.6237624 L123,93 Z" id="Path"></path>
+            <path d="M53,107 L0,107 L0,0 L53,0 L53,22.8455971 C36.2969697,22.8455971 22.7418182,36.4626055 22.7418182,53.2418577 C22.7418182,70.0211098 36.2969697,83.6381182 53,83.6381182 L53,107 Z" id="Path"></path>
+            <path d="M53,23 C69.5605096,23 83,36.663482 83,53.5 C83,70.336518 69.5605096,84 53,84 L53,23 Z" id="Path"></path>
+            <path d="M122,32 C134.113095,32 144,41.5982143 144,53.5 C144,65.4017857 134.178571,75 122,75 L122,32 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
